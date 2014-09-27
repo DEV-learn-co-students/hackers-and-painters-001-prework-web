@@ -1,3 +1,7 @@
+---
+tags: culture, inspiration
+---
+
 # Hackers and Painters
 
 _By [Paul Graham](http://www.paulgraham.com/hp.html)_
