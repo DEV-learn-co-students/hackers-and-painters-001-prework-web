@@ -1,6 +1,4 @@
----
-tags: culture, inspiration
----
+
 
 # Hackers and Painters
 
